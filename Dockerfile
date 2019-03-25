@@ -1,4 +1,3 @@
-version: '3'
 services:
   azure-vote-back:
     image: redis
